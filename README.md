@@ -3,11 +3,11 @@
 ## Prerequisites
 
 - Install \`nodejs\` ideally version >=18.12.1 (recommended to use \`nvm\`) and \`yarn\`
-- Run backend locally from **[https://github.com/ntarricone/jokes-api](https://github.com/ntarricone/jokes-api) **(jokes are pulled from backend so they won't be rendered if it is not running). Follow README instructions in backend repo to run it.
+- Run backend locally from [https://github.com/ntarricone/jokes-api](https://github.com/ntarricone/jokes-api) **(jokes are pulled from backend so they won't be rendered if it is not running)**. Follow README instructions in backend repo to run it.
 
 ## Setup
 
-Get the code by either cloning this repository using git
+Get the code by cloning this repository using git
 
 `git clone git@github.com:ntarricone/jokes-web.git`
 
